@@ -210,6 +210,7 @@ exclude:
   - _pages/teaching.md            # teaching page
   - _pages/profiles.md              # people page
   - _pages/dropdown.md                   # submenus page
+  - _pages/books.md              # books page
 
 keep_files:
   - CNAME
