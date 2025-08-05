@@ -4,13 +4,13 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Download my latest CV or view the details below.",
           section: "Navigation",
           handler: () => {
@@ -57,7 +57,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-graduated-from-university-of-california-san-diego-with-a-b-s-in-cognitive-science-specialization-in-machine-learning-and-neural-computation",
+            },},{id: "news-graduated-from-culver-military-academies-with-a-high-school-diploma",
+          title: 'Graduated from Culver Military Academies with a High School Diploma',
+          description: "",
+          section: "News",},{id: "news-participated-in-junior-achievement-korea-internship-during-gap-year",
+          title: 'Participated in Junior Achievement Korea Internship during Gap Year.',
+          description: "",
+          section: "News",},{id: "news-joined-shang-data-lab-ucsd-as-a-independent-researcher",
+          title: 'Joined Shang Data Lab, UCSD as a Independent Researcher',
+          description: "",
+          section: "News",},{id: "news-graduated-from-university-of-california-san-diego-with-a-b-s-in-cognitive-science-specialization-in-machine-learning-and-neural-computation",
           title: 'Graduated from University of California San Diego with a B.S. in Cognitive Science...',
           description: "",
           section: "News",},{id: "news-joined-georgia-institute-of-technology-as-a-m-s-student-in-computer-science-specializing-in-interactive-intelligence",
