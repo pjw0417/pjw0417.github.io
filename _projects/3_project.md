@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: MICE, Mouse Input for Contextual Estimation
+description: Detecting User Actions from Mouse Events
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/pjw0417/ML-Fall24-Team7/blob/main/docs/FINAL.md
 importance: 3
 category: work
 ---

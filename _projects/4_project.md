@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: AI Tutor
+description: Creating Viable AI Tutor Powered by GPT-4 API 
+img: assets/img/9.jpg
+redirect: https://github.com/pjw0417/LIGN-167-AI-Tutor-Project/tree/main
+importance: 4
 category: fun
 ---
 

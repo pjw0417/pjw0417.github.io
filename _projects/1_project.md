@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: RAGaurant
+description: A RAG-Powered LLM for Personalized Restaurant Recommendation in Atlanta 
 img: assets/img/12.jpg
+redirect: https://github.com/pjw0417/RAGaurant
 importance: 1
 category: work
 related_publications: true
