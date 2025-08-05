@@ -31,8 +31,8 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          title: "Repositories",
+          description: "A list of my repositories on GitHub.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-graduated-from-university-of-california-san-diego-with-a-b-s-in-cognitive-science-specialization-in-machine-learning-and-neural-computation",
+          title: 'Graduated from University of California San Diego with a B.S. in Cognitive Science...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-joined-georgia-institute-of-technology-as-a-m-s-student-in-computer-science-specializing-in-interactive-intelligence",
+          title: 'Joined Georgia Institute of Technology as a M.S. student in Computer Science specializing...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-joined-popsign-ml-models-team-through-vip-program-at-georgia-institute-of-technology",
+          title: 'Joined PopSign ML Models Team through VIP program at Georgia Institute of Technology....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
