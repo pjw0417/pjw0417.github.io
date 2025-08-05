@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pjw0417
+  
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - pjw0417/RAGaurant
+  - pjw0417/nlp-kiss
+  - pjw0417/ML-Fall24-Team7
+  - pjw0417/pjw0417.github.io
+  - pjw0417/LIGN-167-AI-Tutor-Project
+  - pjw0417/Cogs181-Final-Project
+ 

@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/Jungwoo_Park_Resume.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Jungwoo_Park_Resume.pdf # you can also use external links here
+description: Download my latest CV or view the details below.
 toc:
   sidebar: left
 ---
