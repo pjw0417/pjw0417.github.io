@@ -191,6 +191,25 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+ #Added by Jungwoo Park
+  - _posts/                         # blog posts
+  - _pages/blog.md                 # blog page
+  - _includes/latest_posts.liquid # blog includes
+  - _includes/related_posts.liquid
+  - _layouts/archive.liquid
+  - _plugins/external-posts.rb
+  - _pages/publications.md        # publications page
+  - _bibliography/                # bibliography files
+  - _layouts/bib.liquid
+  - _includes/bib_search.liquid
+  - _includes/citation.liquid
+  - _includes/selected_papers.liquid
+  - _plugins/google-scholar-citations.rb
+  - _plugins/hide-custom-bibtex.rb
+  - _plugins/inspirehep-citations.rb
+  - _pages/teaching.md            # teaching page
+  - _pages/people.md              # people page
+
 keep_files:
   - CNAME
   - .nojekyll
