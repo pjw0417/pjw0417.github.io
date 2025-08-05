@@ -7,7 +7,7 @@ subtitle: A just end sanctifies the path, but only if the path itself is just.
 profile:
   align: right
   image: self_pic.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>707 Park Ave Ne #1553</p>
     <p>Atlanta, GA 30326</p>
