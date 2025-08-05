@@ -208,7 +208,8 @@ exclude:
   - _plugins/hide-custom-bibtex.rb
   - _plugins/inspirehep-citations.rb
   - _pages/teaching.md            # teaching page
-  - _pages/people.md              # people page
+  - _pages/profiles.md              # people page
+  - _pages/dropdown.md                   # submenus page
 
 keep_files:
   - CNAME
