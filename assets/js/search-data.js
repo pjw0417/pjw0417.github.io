@@ -75,24 +75,24 @@ ninja.data = [{
           section: "News",},{id: "news-joined-popsign-ml-models-team-through-vip-program-at-georgia-institute-of-technology",
           title: 'Joined PopSign ML Models Team through VIP program at Georgia Institute of Technology....',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-ragaurant",
+          title: 'RAGaurant',
+          description: "A RAG-Powered LLM for Personalized Restaurant Recommendation in Atlanta",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-nlp-kiss-korean-intelligent-spacing-solver",
+          title: 'NLP-KISS, Korean Intelligent Spacing Solver',
+          description: "Exploring effectiveness of deep neural nets for solving Korean word spacing problem",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-mice-mouse-input-for-contextual-estimation",
+          title: 'MICE, Mouse Input for Contextual Estimation',
+          description: "Detecting User Actions from Mouse Events",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-ai-tutor",
+          title: 'AI Tutor',
+          description: "Creating Viable AI Tutor Powered by GPT-4 API",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
