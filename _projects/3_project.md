@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: NLP-KISS, Korean Intelligent Spacing Solver
+description: Exploring effectiveness of deep neural nets for solving Korean word spacing problem
+img: assets/img/3.jpg
+redirect: https://github.com/kyuyeonlee/nlp-kiss/blob/main/Final%20Report.pdf
 importance: 3
-category: work
 ---
 
 Every project has a beautiful feature showcase page.

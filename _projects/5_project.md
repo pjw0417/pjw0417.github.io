@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: AI Tutor
+description: Creating Viable AI Tutor Powered by GPT-4 API 
+img: assets/img/9.jpg
+redirect: https://github.com/pjw0417/LIGN-167-AI-Tutor-Project/tree/main
+importance: 5
 ---
 
 Every project has a beautiful feature showcase page.
