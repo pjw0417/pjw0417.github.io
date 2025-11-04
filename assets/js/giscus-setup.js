@@ -5,11 +5,11 @@ function determineGiscusTheme() {
       document.documentElement.getAttribute("data-theme") ||
       "system";
 
-    if (theme === "dark") return "dark";
-    if (theme === "light") return "light";
+    if (theme === "dark") return "";
+    if (theme === "light") return "";
 
     const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    return prefersDark ? "dark" : "light";
+    return prefersDark ? "" : "";
   
 }
 
@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "pjw0417/personal-website",
+    "data-repo": "pjw0417/pjw0417.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
