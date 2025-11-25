@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: In progress
+description: Empty
 img: assets/img/6.jpg
-importance: 4
+importance: 9
 category: fun
 ---
 

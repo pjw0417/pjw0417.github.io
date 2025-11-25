@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: In progress
+description: Empty
 img: assets/img/9.jpg
-importance: 2
+importance: 8
 category: work
 giscus_comments: true
 ---

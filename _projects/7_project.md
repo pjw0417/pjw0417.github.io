@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: In progress
+description: Empty
 img: assets/img/4.jpg
-importance: 1
+importance: 7
 category: work
 related_publications: true
 ---

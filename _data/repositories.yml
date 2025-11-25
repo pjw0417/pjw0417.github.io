@@ -5,6 +5,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - pjw0417/Personalized_AI_Author
   - pjw0417/ddpm_pytorch
   - pjw0417/RAGaurant
   - pjw0417/nlp-kiss
