@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Joined Georgia Institute of Technology as a M.S. student in Computer Science specializing in Interactive Intelligence.
-

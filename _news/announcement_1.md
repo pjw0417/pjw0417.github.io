@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Graduated from University of California San Diego with a B.S. in Cognitive Science specialization in Machine Learning and Neural Computation.
-

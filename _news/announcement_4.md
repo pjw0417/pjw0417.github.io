@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Shang Data Lab, UCSD as a Independent Researcher 
+Joined Shang Data Lab, UCSD as a Independent Researcher

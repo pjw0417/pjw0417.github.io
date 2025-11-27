@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Graduated from Culver Military Academies with a High School Diploma
-

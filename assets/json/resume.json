@@ -6,7 +6,7 @@
     "email": "pjw0417@gmail.com",
     "phone": "(858) 241-1278",
     "url": "https://pjw0417.github.io",
-"summary": "Graduate CS student at Georgia Tech specializing in Machine Learning with experience building and deploying deep learning models for sign language translation, user behavior prediction, and LLM evaluation. Strong foundation in Python, PyTorch, and scalable ML pipelines.",
+    "summary": "Graduate CS student at Georgia Tech specializing in Machine Learning with experience building and deploying deep learning models for sign language translation, user behavior prediction, and LLM evaluation. Strong foundation in Python, PyTorch, and scalable ML pipelines.",
     "location": {
       "address": "707 Park Ave Ne",
       "postalCode": "GA 30326",
@@ -32,9 +32,14 @@
       "studyType": "Masters",
       "startDate": "2024-08-16",
       "endDate": "2026-05-01",
-      "courses": ["Machine Learning", "Artificial Intelligence",
-      "Computer Vision","Deep Learning", "Natural Language Processing",
-      "Intro Cyber Phys Sys Sec"]
+      "courses": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Intro Cyber Phys Sys Sec"
+      ]
     },
     {
       "institution": "University of California, San Diego",
@@ -44,71 +49,75 @@
       "studyType": "Bachelors",
       "startDate": "2019-09-23",
       "endDate": "2024-06-05",
-      "courses": ["Linear Algebra","Vector Calculus","Calculus and Analytic Geometry for Science and Engineering",
-      "Intro to Probability","Intro to Statistical Analysis",
-      "Sensation and Perception", "Neuroanatomy and Physiology",
-      " Learning, Memory, and Attention", "Systems Neuroscience",
-      "Neural Networks/Deep Learning","Machine Learning Algorithms",
-      "Genetic Algorithms","Deep Learning and Natural Language", 
-      "Data Structures & OO Design","Discrete Mathematics"]
+      "courses": [
+        "Linear Algebra",
+        "Vector Calculus",
+        "Calculus and Analytic Geometry for Science and Engineering",
+        "Intro to Probability",
+        "Intro to Statistical Analysis",
+        "Sensation and Perception",
+        "Neuroanatomy and Physiology",
+        " Learning, Memory, and Attention",
+        "Systems Neuroscience",
+        "Neural Networks/Deep Learning",
+        "Machine Learning Algorithms",
+        "Genetic Algorithms",
+        "Deep Learning and Natural Language",
+        "Data Structures & OO Design",
+        "Discrete Mathematics"
+      ]
     }
   ],
   "projects": [
-  {
-    "name": "A RAG-Powered LLM for Personalized Restaurant Recommendation in Atlanta",
-    "summary": "Developed a personalized restaurant recommender for Atlanta using Retrieval-Augmented Generation (RAG), LLaMA 3, and prompt engineering, combining structured metadata with natural language reviews.",
-    "highlights": [
-      "Implemented RAG with structured and unstructured data fusion",
-      "Applied prompt engineering to improve response relevance"
-    ],
-    "startDate": "2025-05-01",
-    "endDate": "2025-08-01",
-    "url": "https://github.com/pjw0417/RAGaurant"
-  },
-  {
-    "name": "Exploring Effectiveness of Deep Neural Nets for Korean Word Spacing Problem",
-    "summary": "Designed and compared deep learning models including Bidirectional LSTM, CNN, and Transformer using PyTorch for solving the Korean word spacing problem.",
-    "highlights": [
-      "Implemented and evaluated Bidirectional LSTM, CNN, and Transformer architectures",
-      "Analyzed performance trade-offs for Korean NLP task"
-    ],
-    "startDate": "2025-01-01",
-    "endDate": "2025-04-01",
-    "url": "https://github.com/kyuyeonlee/nlp-kiss/blob/main/Final%20Report.pdf"
-  },
-  {
-    "name": "Detecting User Actions from Mouse Events",
-    "summary": "Built an ML pipeline to classify real-time user activity using mouse movement logs across varying window sizes.",
-    "highlights": [
-      "Engineered end-to-end pipeline for time-series mouse event data",
-      "Compared LightGBM, Random Forest, KNN, LSTM, and K-Means"
-    ],
-    "startDate": "2024-08-01",
-    "endDate": "2024-12-01",
-    "url": "https://github.com/pjw0417/ML-Fall24-Team7/blob/main/docs/FINAL.md"
-  },
-  {
-    "name": "Creating Viable AI Tutor Powered by GPT-4 API",
-    "summary": "Developed a GPT-4-powered assistant capable of generating interactive study materials, including chatbots, flashcards, cheat sheets, and exams.",
-    "highlights": [
-      "Integrated GPT-4 API with custom UI for enhanced learning experience",
-      "Applied prompt engineering to optimize content generation"
-    ],
-    "startDate": "2023-09-01",
-    "endDate": "2023-12-01",
-    "url": "https://github.com/pjw0417/LIGN-167-AI-Tutor-Project/blob/main/video1997017520.mp4"
-  },
-  {
-    "name": "Designing Machine Learning Algorithms for Diabetes Diagnosis",
-    "summary": "Compared multiple ML algorithms to improve the accuracy of diabetes diagnosis from patient data.",
-    "highlights": [
-      "Evaluated logistic regression, decision tree, k-nearest neighbor, and support vector machines",
-      "Performed performance comparison and model selection"
-    ],
-    "startDate": "2023-04-01",
-    "endDate": "2023-06-01",
-    "url": "https://github.com/COGS118A/Group002-SP23/blob/788540be1af907041ced5fbbaa0bebee70f29aff/FinalProject_Group002-SP23.ipynb"
-  }
+    {
+      "name": "A RAG-Powered LLM for Personalized Restaurant Recommendation in Atlanta",
+      "summary": "Developed a personalized restaurant recommender for Atlanta using Retrieval-Augmented Generation (RAG), LLaMA 3, and prompt engineering, combining structured metadata with natural language reviews.",
+      "highlights": ["Implemented RAG with structured and unstructured data fusion", "Applied prompt engineering to improve response relevance"],
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "url": "https://github.com/pjw0417/RAGaurant"
+    },
+    {
+      "name": "Exploring Effectiveness of Deep Neural Nets for Korean Word Spacing Problem",
+      "summary": "Designed and compared deep learning models including Bidirectional LSTM, CNN, and Transformer using PyTorch for solving the Korean word spacing problem.",
+      "highlights": [
+        "Implemented and evaluated Bidirectional LSTM, CNN, and Transformer architectures",
+        "Analyzed performance trade-offs for Korean NLP task"
+      ],
+      "startDate": "2025-01-01",
+      "endDate": "2025-04-01",
+      "url": "https://github.com/kyuyeonlee/nlp-kiss/blob/main/Final%20Report.pdf"
+    },
+    {
+      "name": "Detecting User Actions from Mouse Events",
+      "summary": "Built an ML pipeline to classify real-time user activity using mouse movement logs across varying window sizes.",
+      "highlights": ["Engineered end-to-end pipeline for time-series mouse event data", "Compared LightGBM, Random Forest, KNN, LSTM, and K-Means"],
+      "startDate": "2024-08-01",
+      "endDate": "2024-12-01",
+      "url": "https://github.com/pjw0417/ML-Fall24-Team7/blob/main/docs/FINAL.md"
+    },
+    {
+      "name": "Creating Viable AI Tutor Powered by GPT-4 API",
+      "summary": "Developed a GPT-4-powered assistant capable of generating interactive study materials, including chatbots, flashcards, cheat sheets, and exams.",
+      "highlights": [
+        "Integrated GPT-4 API with custom UI for enhanced learning experience",
+        "Applied prompt engineering to optimize content generation"
+      ],
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01",
+      "url": "https://github.com/pjw0417/LIGN-167-AI-Tutor-Project/blob/main/video1997017520.mp4"
+    },
+    {
+      "name": "Designing Machine Learning Algorithms for Diabetes Diagnosis",
+      "summary": "Compared multiple ML algorithms to improve the accuracy of diabetes diagnosis from patient data.",
+      "highlights": [
+        "Evaluated logistic regression, decision tree, k-nearest neighbor, and support vector machines",
+        "Performed performance comparison and model selection"
+      ],
+      "startDate": "2023-04-01",
+      "endDate": "2023-06-01",
+      "url": "https://github.com/COGS118A/Group002-SP23/blob/788540be1af907041ced5fbbaa0bebee70f29aff/FinalProject_Group002-SP23.ipynb"
+    }
   ],
   "Research": [
     {
@@ -128,8 +137,10 @@
       "startDate": "2023-04-03",
       "endDate": "2024-06-20",
       "summary": "Understand and benchmark the reasoning efficiency of large language models.",
-"highlights": ["Devised challenging yet solvable tasks, such as determining the palindrome for GPTmodel, which can be split into two simple and independent tasks to prove that the model cannot decompose complicated tasks into simple ones, even with Chain of Thought (CoT) prompting", 
-"Chose efficiency in backward reasoning as the measure of intelligence for large language models"]
+      "highlights": [
+        "Devised challenging yet solvable tasks, such as determining the palindrome for GPTmodel, which can be split into two simple and independent tasks to prove that the model cannot decompose complicated tasks into simple ones, even with Chain of Thought (CoT) prompting",
+        "Chose efficiency in backward reasoning as the measure of intelligence for large language models"
+      ]
     }
   ],
   "awards": [
@@ -164,8 +175,17 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python", "Java", "PyTorch", "scikit-learn", "Machine Learning", "Deep Learning", "Git", "Hugging Face", "Fine Tuning",
-        "Prompt Engineering", "RAG"
+        "Python",
+        "Java",
+        "PyTorch",
+        "scikit-learn",
+        "Machine Learning",
+        "Deep Learning",
+        "Git",
+        "Hugging Face",
+        "Fine Tuning",
+        "Prompt Engineering",
+        "RAG"
       ]
     }
   ],
@@ -189,9 +209,10 @@
         "Laruge Language Models",
         "Deep Learning",
         "Natural Language Processing",
-        "Computer Vision", "Reinforcement Learning", "Generative AI"
+        "Computer Vision",
+        "Reinforcement Learning",
+        "Generative AI"
       ]
     }
   ]
-
 }
