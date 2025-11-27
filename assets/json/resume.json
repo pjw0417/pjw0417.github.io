@@ -72,7 +72,10 @@
     {
       "name": "Personalized AI author",
       "summary": "Developed a user tailored AI author system that generates personalized books and essays using  agentic LLMs, RAG, and ReAct Prompting.",
-      "highlights": ["Orchestrated single agent reptition with GPT-5 nano api, Context optimized Project Gutenberg corpus for RAG","Used ReAct prompting to enhance content generation quality"],
+      "highlights": [
+        "Orchestrated single agent reptition with GPT-5 nano api, Context optimized Project Gutenberg corpus for RAG",
+        "Used ReAct prompting to enhance content generation quality"
+      ],
       "startDate": "2025-09-20",
       "endDate": "2025-11-27",
       "url": "https://github.com/pjw0417/Personalized_AI_Author"
@@ -80,11 +83,15 @@
     {
       "name": "DDPM_PyTorch",
       "summary": "Reimplemented Denoising Diffusion Probabilistic Models paper from scratch in PyTorch.",
-      "highlights": ["Implemented Unet with attention mechanism", "Trained diffusion model on CIFAR-10 dataset", "Achieved FID score of 39.28 with 10,000 target steps and 10,000 num_samples"],
+      "highlights": [
+        "Implemented Unet with attention mechanism",
+        "Trained diffusion model on CIFAR-10 dataset",
+        "Achieved FID score of 39.28 with 10,000 target steps and 10,000 num_samples"
+      ],
       "startDate": "2025-08-15",
       "endDate": "2025-09-20",
       "url": "https://github.com/pjw0417/ddpm_pytorch"
-    },     
+    },
     {
       "name": "A RAG-Powered LLM for Personalized Restaurant Recommendation in Atlanta",
       "summary": "Developed a personalized restaurant recommender for Atlanta using Retrieval-Augmented Generation (RAG), LLaMA 3, and prompt engineering, combining structured metadata with natural language reviews.",
