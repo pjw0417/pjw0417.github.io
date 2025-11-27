@@ -2,7 +2,7 @@
 layout: page
 title: Personalized AI Author
 description: User tailored writer using GPT-5 nano agent repetition and RAG with ReAct Prompting
-img: assets/img/2.jpg
+img: assets/img/aiauthor.jpg
 importance: 1
 redirect: https://github.com/pjw0417/Personalized_AI_Author
 ---

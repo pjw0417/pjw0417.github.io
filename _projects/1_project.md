@@ -2,7 +2,7 @@
 layout: page
 title: DDPM_PyTorch
 description: Reimplementing Denoising Diffusion Probabilistic Models paper from scratch in PyTorch
-img: assets/img/1.jpg
+img: assets/img/ddpm.jpg
 redirect: https://github.com/pjw0417/ddpm_pytorch
 importance: 2
 ---
