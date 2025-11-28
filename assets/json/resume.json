@@ -73,7 +73,7 @@
       "name": "Personalized AI author",
       "summary": "Developed a user tailored AI author system that generates personalized books and essays using  agentic LLMs, RAG, and ReAct Prompting.",
       "highlights": [
-        "Orchestrated single agent reptition with GPT-5 nano api", 
+        "Orchestrated single agent reptition with GPT-5 nano api",
         "Context optimized Project Gutenberg corpus for RAG",
         "Used ReAct prompting to enhance content generation quality"
       ],
