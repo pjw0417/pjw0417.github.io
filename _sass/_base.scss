@@ -543,6 +543,11 @@ footer.sticky-bottom {
   line-height: 1.2;
 }
 
+.cv-research .date-column {
+  width: 110px;
+  transform: none;
+}
+
 // Repositories
 
 @media (min-width: 768px) {
