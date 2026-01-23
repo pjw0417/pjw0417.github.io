@@ -74,7 +74,7 @@
   "projects": [
     {
       "name": "Personalized AI author",
-      "summary": "Developed a user tailored AI author system that generates personalized books and essays using  agentic LLMs, RAG, and ReAct Prompting.",
+      "summary": "Developed a user tailored AI author system that generates personalized books and essays using  agentic LLMs, RAG, and ReAct Prompting",
       "highlights": [
         "Orchestrated single agent reptition with GPT-5 nano api",
         "Context optimized Project Gutenberg corpus for RAG",
@@ -86,7 +86,7 @@
     },
     {
       "name": "DDPM_PyTorch",
-      "summary": "Reimplemented Denoising Diffusion Probabilistic Models paper from scratch in PyTorch.",
+      "summary": "Reimplemented Denoising Diffusion Probabilistic Models paper from scratch in PyTorch",
       "highlights": [
         "Implemented Unet with attention mechanism and trained diffusion model on CIFAR-10 dataset",
         "Achieved FID score of 39.28 with 10,000 target steps and 10,000 num_samples"
@@ -97,7 +97,7 @@
     },
     {
       "name": "A RAG-Powered LLM for Personalized Restaurant Recommendation in Atlanta",
-      "summary": "Developed a personalized restaurant recommender for Atlanta using Retrieval-Augmented Generation (RAG), LLaMA 3, and prompt engineering, combining structured metadata with natural language reviews.",
+      "summary": "Developed a personalized restaurant recommender for Atlanta using Retrieval-Augmented Generation (RAG), LLaMA 3, and prompt engineering, combining structured metadata with natural language reviews",
       "highlights": ["Implemented RAG with structured and unstructured data fusion", "Applied prompt engineering to improve response relevance"],
       "startDate": "2025-05-01",
       "endDate": "2025-08-01",
@@ -105,7 +105,7 @@
     },
     {
       "name": "Exploring Effectiveness of Deep Neural Nets for Korean Word Spacing Problem",
-      "summary": "Designed and compared deep learning models including Bidirectional LSTM, CNN, and Transformer using PyTorch for solving the Korean word spacing problem.",
+      "summary": "Designed and compared deep learning models including Bidirectional LSTM, CNN, and Transformer using PyTorch for solving the Korean word spacing problem",
       "highlights": [
         "Implemented and evaluated Bidirectional LSTM, CNN, and Transformer architectures",
         "Analyzed performance trade-offs for Korean NLP task"
@@ -116,7 +116,7 @@
     },
     {
       "name": "Detecting User Actions from Mouse Events",
-      "summary": "Built an ML pipeline to classify real-time user activity using mouse movement logs across varying window sizes.",
+      "summary": "Built an ML pipeline to classify real-time user activity using mouse movement logs across varying window sizes",
       "highlights": ["Engineered end-to-end pipeline for time-series mouse event data", "Compared LightGBM, Random Forest, KNN, LSTM, and K-Means"],
       "startDate": "2024-08-01",
       "endDate": "2024-12-01",
@@ -124,7 +124,7 @@
     },
     {
       "name": "Creating Viable AI Tutor Powered by GPT-4 API",
-      "summary": "Developed a GPT-4-powered assistant capable of generating interactive study materials, including chatbots, flashcards, cheat sheets, and exams.",
+      "summary": "Developed a GPT-4-powered assistant capable of generating interactive study materials, including chatbots, flashcards, cheat sheets, and exams",
       "highlights": [
         "Integrated GPT-4 API with custom UI for enhanced learning experience",
         "Applied prompt engineering to optimize content generation"
@@ -135,7 +135,7 @@
     },
     {
       "name": "Designing Machine Learning Algorithms for Diabetes Diagnosis",
-      "summary": "Compared multiple ML algorithms to improve the accuracy of diabetes diagnosis from patient data.",
+      "summary": "Compared multiple ML algorithms to improve the accuracy of diabetes diagnosis from patient data",
       "highlights": [
         "Evaluated logistic regression, decision tree, k-nearest neighbor, and support vector machines",
         "Performed performance comparison and model selection"
@@ -153,7 +153,7 @@
       "url": "https://www.popsign.org/",
       "startDate": "2025-01-01",
       "endDate": "Present",
-      "summary": "Preprocessed and analyzed the phrase data for training/testing and eventual implementation in the CopyCat game.",
+      "summary": "Preprocessed and analyzed the phrase data for training/testing and eventual implementation in the CopyCat game",
       "highlights": ["Currently building ML pipeline to do the Seq2Seq phrase to sign matching task and implement model conversion"]
     },
     {
@@ -162,7 +162,7 @@
       "position": "Independent Researcher",
       "startDate": "2023-04-03",
       "endDate": "2024-06-20",
-      "summary": "Understand and benchmark the reasoning efficiency of large language models.",
+      "summary": "Understand and benchmark the reasoning efficiency of large language models",
       "highlights": [
         "Devised challenging yet solvable tasks, such as determining the palindrome for GPTmodel, which can be split into two simple and independent tasks to prove that the model cannot decompose complicated tasks into simple ones, even with Chain of Thought (CoT) prompting",
         "Chose efficiency in backward reasoning as the measure of intelligence for large language models"
