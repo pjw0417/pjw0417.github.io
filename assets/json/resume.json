@@ -31,14 +31,17 @@
       "area": "Computer Science",
       "studyType": "Masters",
       "startDate": "2024-08-16",
-      "endDate": "2026-05-01",
+      "endDate": "2026-12-01",
       "courses": [
         "Machine Learning",
         "Artificial Intelligence",
         "Computer Vision",
         "Deep Learning",
         "Natural Language Processing",
-        "Intro Cyber Phys Sys Sec"
+        "Intro Cyber Phys Sys Sec",
+        "Intro to Block Chain",
+        "Large Language Models",
+        "Deep Reinfrorcement Learning"
       ]
     },
     {
@@ -142,7 +145,7 @@
       "url": "https://github.com/COGS118A/Group002-SP23/blob/788540be1af907041ced5fbbaa0bebee70f29aff/FinalProject_Group002-SP23.ipynb"
     }
   ],
-  "Research": [
+  "research": [
     {
       "organization": "PopSign ML Models Team",
       "location": "Department of Computer Science, Georgia Tech",
@@ -171,25 +174,25 @@
       "title": "Honorable Career",
       "date": "2022-11-01",
       "awarder": "Republic of Korea",
-      "summary": " Received Honorable Career for volunteering as an interpreter at Incheon International Airport during COVID-19 pandemic."
+      "summary": " Received Honorable Career for volunteering as an interpreter at Incheon International Airport during COVID-19 pandemic"
     },
     {
       "title": "Grand Prize, 2nd Corps for Gangwon University Start-up Competition",
       "date": "2021-11-15",
       "awarder": "ROK Army",
-      "summary": "Awarded Grand Prize for innovative project ideas and execution."
+      "summary": "Awarded Grand Prize for innovative project ideas and execution"
     },
     {
       "title": "Top 25 Team for ROK Army Start-up Competition",
       "date": "2021-10-25",
       "awarder": "ROK Army",
-      "summary": "Placed in the top 25 teams for the ROK Army Start-up Competition, showcasing innovative ideas and solutions."
+      "summary": "Placed in the top 25 teams for the ROK Army Start-up Competition, showcasing innovative ideas and solutions"
     },
     {
       "title": "1st Place, 2nd Army Brigade Start-up Competition",
       "date": "2021-09-18",
       "awarder": "ROK Army",
-      "summary": "Won 1st place in the 2nd Army Brigade Start-up Competition for outstanding project proposal and execution."
+      "summary": "Won 1st place in the 2nd Army Brigade Start-up Competition for outstanding project proposal and execution"
     }
   ],
   "skills": [
@@ -202,8 +205,11 @@
         "Java",
         "PyTorch",
         "scikit-learn",
+        "AWS Cloud Practitioner",
         "Machine Learning",
         "Deep Learning",
+        "Reinforcement Learning",
+        "Natural Language Processing",
         "Git",
         "Hugging Face",
         "Fine Tuning",

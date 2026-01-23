@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participated in Junior Achievement Korea Internship during Gap Year.
+Participated in Junior Achievement Korea Internship during Gap Year

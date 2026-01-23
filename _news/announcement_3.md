@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined PopSign ML Models Team through VIP program at Georgia Institute of Technology.
+Joined PopSign ML Models Team through VIP program at Georgia Institute of Technology
