@@ -536,6 +536,13 @@ footer.sticky-bottom {
   transform: translateX(-15px) translateY(-5px);
 }
 
+.date-column .badge {
+  display: inline-block;
+  max-width: 100%;
+  white-space: normal;
+  line-height: 1.2;
+}
+
 // Repositories
 
 @media (min-width: 768px) {
