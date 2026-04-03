@@ -153,8 +153,8 @@
       "url": "https://www.popsign.org/",
       "startDate": "2025-01-01",
       "endDate": "Present",
-      "summary": "Preprocessed and analyzed the phrase data for training/testing and eventual implementation in the CopyCat game",
-      "highlights": ["Currently building ML pipeline to do the Seq2Seq phrase to sign matching task and implement model conversion"]
+      "summary": "Modified a Squeezeformer model for fingerspelling recognition, achieving 97.88% word accuracy and 1.43% CER",
+      "highlights": ["Preprocessed and analyzed the phrase data for training/testing and eventual implementation in the CopyCat game"]
     },
     {
       "organization": "Shang Data Lab",
