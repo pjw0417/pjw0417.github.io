@@ -73,6 +73,19 @@
   ],
   "projects": [
     {
+      "name": "SoccerTwo RL Agent",
+      "summary": "Developed a curriculum-trained reinforcement learning agent for the Soccer-Twos Unity environment using Ray RLlib PPO, staged environment randomization, and self-play checkpointing.",
+      "highlights": [
+        "Implemented PPO curriculum training with progressively harder ball, player, and opponent configurations",
+        "Added self-play opponent sampling from historical policy snapshots to improve agent robustness",
+        "Placed 2nd among 74 teams in DRL class competition and beat CEIA agent in 10 out of 10 matches in final evaluation"
+      ],
+      "startDate": "2026-01-12",
+      "endDate": "2026-05-06",
+      "url": "https://github.com/Huan80805/soccer-twos"
+    },
+
+    {
       "name": "Personalized AI author",
       "summary": "Developed a user tailored AI author system that generates personalized books and essays using  agentic LLMs, RAG, and ReAct Prompting",
       "highlights": [

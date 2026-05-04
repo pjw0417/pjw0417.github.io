@@ -4,7 +4,7 @@ title: AI Tutor
 description: Creating Viable AI Tutor Powered by GPT-4 API
 img: assets/img/tutor.jpg
 redirect: https://github.com/pjw0417/LIGN-167-AI-Tutor-Project/tree/main
-importance: 6
+importance: 7
 ---
 
 Every project has a beautiful feature showcase page.

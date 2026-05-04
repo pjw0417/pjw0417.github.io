@@ -4,7 +4,7 @@ title: NLP-KISS, Korean Intelligent Spacing Solver
 description: Exploring effectiveness of deep neural nets for solving Korean word spacing problem
 img: assets/img/nlpkiss.jpg
 redirect: https://github.com/kyuyeonlee/nlp-kiss/blob/main/Final%20Report.pdf
-importance: 4
+importance: 5
 ---
 
 Every project has a beautiful feature showcase page.

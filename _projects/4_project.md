@@ -4,7 +4,7 @@ title: MICE, Mouse Input for Contextual Estimation
 description: Detecting User Actions from Mouse Events
 img: assets/img/mice.jpg
 redirect: https://github.com/pjw0417/ML-Fall24-Team7/blob/main/docs/FINAL.md
-importance: 5
+importance: 6
 ---
 
 Every project has a beautiful feature showcase page.

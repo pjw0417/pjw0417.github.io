@@ -1,11 +1,10 @@
 ---
 layout: page
-title: In progress
-description: Empty
-img: assets/img/4.jpg
-importance: 7
-category: work
-related_publications: true
+title: SoccerTwo RL Agent
+description: Curriculum-trained reinforcement learning agent for the Soccer-Twos Unity environment using Ray RLlib PPO, staged environment randomization, and self-play checkpointing
+img: assets/img/soccer.jpg
+redirect: https://github.com/Huan80805/soccer-twos
+importance: 1
 ---
 
 Every project has a beautiful feature showcase page.
@@ -44,8 +43,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
