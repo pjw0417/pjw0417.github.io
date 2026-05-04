@@ -28,7 +28,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-graduated-from-culver-military-academies-with-a-high-school-diploma",
+            },},{id: "news-submitted-fswordspell-an-isolated-word-american-sign-language-fingerspelling-dataset-to-imwut-2026-conference-as-coauthor-under-review",
+          title: 'Submitted “FSWordSpell: An Isolated Word American Sign Language Fingerspelling Dataset” to IMWUT 2026...',
+          description: "",
+          section: "News",},{id: "news-graduated-from-culver-military-academies-with-a-high-school-diploma",
           title: 'Graduated from Culver Military Academies with a High School Diploma',
           description: "",
           section: "News",},{id: "news-participated-in-junior-achievement-korea-internship-during-gap-year",
@@ -82,9 +85,9 @@ ninja.data = [{
           description: "User tailored writer using GPT-5 nano agent repetition and RAG with ReAct Prompting",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-in-progress",
-          title: 'In progress',
-          description: "Empty",
+            },},{id: "projects-soccertwo-rl-agent",
+          title: 'SoccerTwo RL Agent',
+          description: "Curriculum-trained reinforcement learning agent for the Soccer-Twos Unity environment using Ray RLlib PPO, staged environment randomization, and self-play checkpointing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-in-progress",
