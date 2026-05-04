@@ -2,7 +2,7 @@
 layout: page
 title: SoccerTwo RL Agent
 description: Curriculum-trained reinforcement learning agent for the Soccer-Twos Unity environment using Ray RLlib PPO, staged environment randomization, and self-play checkpointing
-img: assets/img/soccer.jpg
+img: assets/img/soccer.png
 redirect: https://github.com/Huan80805/soccer-twos
 importance: 1
 ---
