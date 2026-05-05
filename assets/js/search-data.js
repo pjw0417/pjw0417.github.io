@@ -28,10 +28,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-submitted-fswordspell-an-isolated-word-american-sign-language-fingerspelling-dataset-to-imwut-2026-conference-as-coauthor-under-review",
-          title: 'Submitted “FSWordSpell: An Isolated Word American Sign Language Fingerspelling Dataset” to IMWUT 2026...',
-          description: "",
-          section: "News",},{id: "news-graduated-from-culver-military-academies-with-a-high-school-diploma",
+            },},{id: "news-graduated-from-culver-military-academies-with-a-high-school-diploma",
           title: 'Graduated from Culver Military Academies with a High School Diploma',
           description: "",
           section: "News",},{id: "news-participated-in-junior-achievement-korea-internship-during-gap-year",
@@ -54,6 +51,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-joined-popsign-ml-models-team-through-vip-program-at-georgia-institute-of-technology",
           title: 'Joined PopSign ML Models Team through VIP program at Georgia Institute of Technology...',
+          description: "",
+          section: "News",},{id: "news-submitted-fswordspell-an-isolated-word-american-sign-language-fingerspelling-dataset-to-imwut-2026-conference-as-coauthor-under-review",
+          title: 'Submitted “FSWordSpell: An Isolated Word American Sign Language Fingerspelling Dataset” to IMWUT 2026...',
           description: "",
           section: "News",},{id: "projects-ddpm-pytorch",
           title: 'DDPM_PyTorch',
